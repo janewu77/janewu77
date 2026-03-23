@@ -64,7 +64,7 @@ Flutter calendar assistant powered by LangChain / LangGraph — born at a hackat
 ---
 
 <div align="center">
-
+<br />
 <table>
 <tr>
 <td align="center">🇬🇧</td>
@@ -82,10 +82,5 @@ Flutter calendar assistant powered by LangChain / LangGraph — born at a hackat
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janewush/)
-&nbsp;&nbsp;
-[![Zhihu](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-0084FF?style=for-the-badge&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/janewu77)
-&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janewu2025.de@gmail.com)
 
 </div>
