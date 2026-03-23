@@ -25,7 +25,6 @@
 <td width="33%" valign="top">
 
 🧩 **[jw-skills](https://github.com/janewu77/jw-skills)**
-[![stars](https://img.shields.io/github/stars/janewu77/jw-skills?style=flat-square&logo=github&label=)](https://github.com/janewu77/jw-skills)
 
 Modular agent skills for daily work — markdown-first, composable, built for Cursor & Claude.
 
@@ -33,7 +32,6 @@ Modular agent skills for daily work — markdown-first, composable, built for Cu
 <td width="34%" valign="top">
 
 🗣️ **[ela-extension](https://github.com/janewu77/ela-extension)**
-[![stars](https://img.shields.io/github/stars/janewu77/ela-extension?style=flat-square&logo=github&label=)](https://github.com/janewu77/ela-extension)
 
 Chrome extension for language learning — TTS + LLM practice while you browse.
 
@@ -41,7 +39,6 @@ Chrome extension for language learning — TTS + LLM practice while you browse.
 <td width="33%" valign="top">
 
 📅 **[follow_up](https://github.com/janewu77/follow_up)**
-[![stars](https://img.shields.io/github/stars/janewu77/follow_up?style=flat-square&logo=github&label=)](https://github.com/janewu77/follow_up)
 
 Flutter calendar assistant powered by LangChain / LangGraph — born at a hackathon 🏆
 
