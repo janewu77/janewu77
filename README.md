@@ -22,27 +22,35 @@
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
+
+🚀 **[apply-pilot](https://github.com/janewu77/apply-pilot)**
+
+Smart job application form auto-filler — keyword + AI semantic matching (Claude / GPT) for forms in EN / DE / ZH.
+
+</td>
+<td width="25%" valign="top">
 
 🧩 **[jw-skills](https://github.com/janewu77/jw-skills)**
 
 Modular agent skills for daily work — markdown-first, composable, built for Cursor & Claude.
 
 </td>
-<td width="34%" valign="top">
+<td width="25%" valign="top">
 
 🗣️ **[ela-extension](https://github.com/janewu77/ela-extension)**
 
 Chrome extension for language learning — TTS + LLM practice while you browse.
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 📅 **[follow_up](https://github.com/janewu77/follow_up)**
 
 Flutter calendar assistant powered by LangChain / LangGraph — born at a hackathon 🏆
 
 </td>
+
 </tr>
 </table>
 
