@@ -89,5 +89,8 @@ Flutter calendar assistant powered by LangChain / LangGraph — born at a hackat
 
 <br/>
 
+<a href="https://www.buymeacoffee.com/janewu77" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45" />
+</a>
 
 </div>
