@@ -64,7 +64,7 @@ AI football coaching assistant — team photo → auto lineup → live voice tac
 
 🎙️ **[Tonota](https://janewu77.github.io/Tonota/)**
 
-Privacy-first iPhone voice memo app — on-device transcription (WhisperKit) + local LLM polishing. Zero cloud, zero account, 10 languages. [Live on App Store ↗](https://tonota.app)
+Privacy-first iPhone voice memo app — on-device transcription (WhisperKit) + local LLM polishing. Zero cloud, zero account, 10 languages. [Live on App Store ↗](https://testflight.apple.com/join/AFRTkygT)
 
 </td>
 </tr>
