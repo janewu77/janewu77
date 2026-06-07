@@ -13,8 +13,9 @@
 #### 🔭 What I'm tinkering with lately
 
 - 🧩 **Agent skills** — Making composable [skills](https://github.com/janewu77/jw-skills) for Cursor & Claude that actually get stuff done, not just look cool in a demo
+- ⚽ **[Whisper Coach](https://github.com/janewu77/whisper_coach)** — Voice-driven AI football tactics assistant: team photo → lineup → live suggestions. Built at Hamburg Hackathon 2026
+- 🎙️ **[Tonota](https://janewu77.github.io/Tonota/)** — Privacy-first iPhone voice memo app with on-device WhisperKit transcription + local LLM polishing. Zero cloud, zero account
 - ☕ **Java / Python / Spring Boot + AWS** — Still my bread and butter. Backends that don't fall over at 3 AM
-- 🚀 **Shipping random ideas** — Chrome extensions, Flutter apps, hackathon prototypes… if it's fun, I'll build it
 
 ---
 
@@ -22,35 +23,50 @@
 
 <table>
 <tr>
-<td width="25%" valign="top">
+<td width="33%" valign="top">
 
 🚀 **[apply-pilot](https://github.com/janewu77/apply-pilot)**
 
 Smart job application form auto-filler — keyword + AI semantic matching (Claude / GPT) for forms in EN / DE / ZH.
 
 </td>
-<td width="25%" valign="top">
+<td width="33%" valign="top">
 
 🧩 **[jw-skills](https://github.com/janewu77/jw-skills)**
 
 Modular agent skills for daily work — markdown-first, composable, built for Cursor & Claude.
 
 </td>
-<td width="25%" valign="top">
+<td width="33%" valign="top">
 
 🗣️ **[ela-extension](https://github.com/janewu77/ela-extension)**
 
 Chrome extension for language learning — TTS + LLM practice while you browse.
 
 </td>
-<td width="25%" valign="top">
+</tr>
+<tr>
+<td width="33%" valign="top">
 
 📅 **[follow_up](https://github.com/janewu77/follow_up)**
 
 Flutter calendar assistant powered by LangChain / LangGraph — born at a hackathon 🏆
 
 </td>
+<td width="33%" valign="top">
 
+⚽ **[whisper_coach](https://github.com/janewu77/whisper_coach)**
+
+AI football coaching assistant — team photo → auto lineup → live voice tactics → post-match report. Flutter + FastAPI + GPT-4o, shipped at Hamburg Hackathon 2026.
+
+</td>
+<td width="33%" valign="top">
+
+🎙️ **[Tonota](https://janewu77.github.io/Tonota/)**
+
+Privacy-first iPhone voice memo app — on-device transcription (WhisperKit) + local LLM polishing. Zero cloud, zero account, 10 languages. [Live on App Store ↗](https://tonota.app)
+
+</td>
 </tr>
 </table>
 
@@ -59,7 +75,7 @@ Flutter calendar assistant powered by LangChain / LangGraph — born at a hackat
 #### 🛠️ Things I reach for
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,spring,flutter,aws,docker,git&perline=8&theme=dark" alt="Java, Python, Spring, Flutter, AWS, Docker, Git" />
+  <img src="https://skillicons.dev/icons?i=java,python,swift,spring,flutter,aws,docker,git&perline=8&theme=dark" alt="Java, Python, Swift, Spring, Flutter, AWS, Docker, Git" />
 </p>
 
 <p align="center">
