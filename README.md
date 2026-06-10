@@ -14,9 +14,9 @@
 
 #### 🔭 What I'm tinkering with lately
 
-- 🧩 **Agent skills** — Making composable [skills](https://github.com/janewu77/jw-skills) for Cursor & Claude that actually get stuff done, not just look cool in a demo
-- ⚽ **[Whisper Coach](https://github.com/janewu77/whisper_coach)** — Voice-driven AI football tactics assistant: team photo → lineup → live suggestions. Built at Hamburg Hackathon 2026
 - 🎙️ **[Tonota](https://apps.apple.com/app/tonota/id6775595589)** — Privacy-first iPhone voice memo app with on-device WhisperKit transcription + local LLM polishing. Zero cloud, zero account. **Live on the App Store — shipped in 9 days** 🚀
+- ⚽ **[Whisper Coach](https://github.com/janewu77/whisper_coach)** — Voice-driven AI football tactics assistant: team photo → lineup → live suggestions. Built at Hamburg Hackathon 2026
+- 🧩 **Agent skills** — Making composable [skills](https://github.com/janewu77/jw-skills) for Cursor & Claude that actually get stuff done, not just look cool in a demo
 - ☕ **Java / Python / Spring Boot + AWS** — Still my bread and butter. Backends that don't fall over at 3 AM
 
 ---
@@ -50,7 +50,7 @@ Modular agent skills for daily work — markdown-first, composable, built for Cu
 <tr>
 <td width="33%" valign="top">
 
-🎙️ **[Tonota](https://janewu77.github.io/Tonota/)**
+🎙️ **[Tonota](https://github.com/janewu77/Tonota)**
 
 Privacy-first iPhone voice memo app — on-device transcription (WhisperKit) + local LLM polishing. Zero cloud, zero account, 10 languages. [Live on App Store ↗](https://apps.apple.com/app/tonota/id6775595589)
 
@@ -66,7 +66,7 @@ AI football coaching assistant — team photo → auto lineup → live voice tac
 
 📅 **[follow_up](https://github.com/janewu77/follow_up)**
 
-Flutter calendar assistant powered by LangChain / LangGraph — born at a hackathon 🏆
+Flutter calendar assistant powered by LangChain / LangGraph — born at a hackathon
 
 </td>
 </tr>
