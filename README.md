@@ -4,7 +4,9 @@
 
 <br/>
 
-☕ Code · 🤖 AI agents · 🇩🇪 Hamburg
+**Backend & AI Engineer** · Java / Python / Spring Boot · AI Agents & LLM apps · iOS on-device ML · 📍 Hamburg, Germany 🇩🇪
+
+📫 [janewu2005@gmail.com](mailto:janewu2005@gmail.com) · [LinkedIn](https://www.linkedin.com/in/janewush) · [X @JW116912](https://twitter.com/JW116912)
 
 </div>
 
@@ -14,7 +16,7 @@
 
 - 🧩 **Agent skills** — Making composable [skills](https://github.com/janewu77/jw-skills) for Cursor & Claude that actually get stuff done, not just look cool in a demo
 - ⚽ **[Whisper Coach](https://github.com/janewu77/whisper_coach)** — Voice-driven AI football tactics assistant: team photo → lineup → live suggestions. Built at Hamburg Hackathon 2026
-- 🎙️ **[Tonota](https://janewu77.github.io/Tonota/)** — Privacy-first iPhone voice memo app with on-device WhisperKit transcription + local LLM polishing. Zero cloud, zero account
+- 🎙️ **[Tonota](https://apps.apple.com/app/tonota/id6775595589)** — Privacy-first iPhone voice memo app with on-device WhisperKit transcription + local LLM polishing. Zero cloud, zero account. **Live on the App Store — shipped in 9 days** 🚀
 - ☕ **Java / Python / Spring Boot + AWS** — Still my bread and butter. Backends that don't fall over at 3 AM
 
 ---
@@ -27,7 +29,14 @@
 
 🚀 **[apply-pilot](https://github.com/janewu77/apply-pilot)**
 
-Smart job application form auto-filler — keyword + AI semantic matching (Claude / GPT) for forms in EN / DE / ZH.
+Smart job application form auto-filler — keyword + AI semantic matching (Claude / GPT) for forms in EN / DE / ZH. Live on Chrome Web Store.
+
+</td>
+<td width="33%" valign="top">
+
+🗣️ **[ela-extension](https://github.com/janewu77/ela-extension)**
+
+Chrome extension for language learning — TTS + LLM practice while you browse. Live on Chrome Web Store.
 
 </td>
 <td width="33%" valign="top">
@@ -37,20 +46,13 @@ Smart job application form auto-filler — keyword + AI semantic matching (Claud
 Modular agent skills for daily work — markdown-first, composable, built for Cursor & Claude.
 
 </td>
-<td width="33%" valign="top">
-
-🗣️ **[ela-extension](https://github.com/janewu77/ela-extension)**
-
-Chrome extension for language learning — TTS + LLM practice while you browse.
-
-</td>
 </tr>
 <tr>
 <td width="33%" valign="top">
 
-📅 **[follow_up](https://github.com/janewu77/follow_up)**
+🎙️ **[Tonota](https://janewu77.github.io/Tonota/)**
 
-Flutter calendar assistant powered by LangChain / LangGraph — born at a hackathon 🏆
+Privacy-first iPhone voice memo app — on-device transcription (WhisperKit) + local LLM polishing. Zero cloud, zero account, 10 languages. [Live on App Store ↗](https://apps.apple.com/app/tonota/id6775595589)
 
 </td>
 <td width="33%" valign="top">
@@ -62,9 +64,9 @@ AI football coaching assistant — team photo → auto lineup → live voice tac
 </td>
 <td width="33%" valign="top">
 
-🎙️ **[Tonota](https://janewu77.github.io/Tonota/)**
+📅 **[follow_up](https://github.com/janewu77/follow_up)**
 
-Privacy-first iPhone voice memo app — on-device transcription (WhisperKit) + local LLM polishing. Zero cloud, zero account, 10 languages. [Live on App Store ↗](https://testflight.apple.com/join/AFRTkygT)
+Flutter calendar assistant powered by LangChain / LangGraph — born at a hackathon 🏆
 
 </td>
 </tr>
