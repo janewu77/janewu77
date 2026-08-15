@@ -27,6 +27,13 @@
 <tr>
 <td width="33%" valign="top">
 
+🎙️ **[Tonota](https://github.com/janewu77/Tonota)**
+
+Privacy-first iPhone voice memo app — on-device transcription (WhisperKit) + local LLM polishing. Zero cloud, zero account, 10 languages. [Live on App Store ↗](https://apps.apple.com/app/tonota/id6775595589)
+
+</td>
+<td width="33%" valign="top">
+
 🚀 **[apply-pilot](https://github.com/janewu77/apply-pilot)**
 
 Smart job application form auto-filler — keyword + AI semantic matching (Claude / GPT) for forms in EN / DE / ZH. Live on Chrome Web Store.
@@ -39,20 +46,13 @@ Smart job application form auto-filler — keyword + AI semantic matching (Claud
 Chrome extension for language learning — TTS + LLM practice while you browse. Live on Chrome Web Store.
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 
 🧩 **[jw-skills](https://github.com/janewu77/jw-skills)**
 
 Modular agent skills for daily work — markdown-first, composable, built for Cursor & Claude.
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-🎙️ **[Tonota](https://github.com/janewu77/Tonota)**
-
-Privacy-first iPhone voice memo app — on-device transcription (WhisperKit) + local LLM polishing. Zero cloud, zero account, 10 languages. [Live on App Store ↗](https://apps.apple.com/app/tonota/id6775595589)
 
 </td>
 <td width="33%" valign="top">
